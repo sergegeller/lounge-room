@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lounge Set
+* source:	https://sketchfab.com/3d-models/lounge-set-6a6c0f882e0e444c9d95dee1b0cadda1
+* author:	AnnikaVeksø (https://sketchfab.com/AnnikaVeks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lounge Set" (https://sketchfab.com/3d-models/lounge-set-6a6c0f882e0e444c9d95dee1b0cadda1) by AnnikaVeksø (https://sketchfab.com/AnnikaVeks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
